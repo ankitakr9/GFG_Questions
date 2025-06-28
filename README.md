@@ -1,8 +1,5 @@
 # GFG 160 Days Coding Challenge – DSA in Java
 
-![GitHub Repo stars](https://img.shields.io/github/stars/ankitakr9/GFG-160-Days-Challenge-Java?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ankitakr9/GFG-160-Days-Challenge-Java?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/ankitakr9/GFG-160-Days-Challenge-Java)
 
 Welcome to my GitHub repository for the *GeeksforGeeks 160 Days Coding Challenge, where I solve daily Data Structures and Algorithms (DSA) problems using **Java*. This challenge is aimed at building strong problem-solving skills and preparing for coding interviews.
 
